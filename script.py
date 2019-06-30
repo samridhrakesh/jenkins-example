@@ -1,1 +1,2 @@
-print("This is my python script")
+import os
+os.mkdir("/root/pyhonDir")
